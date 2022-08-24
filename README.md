@@ -1,37 +1,15 @@
-# Welcome on a template project
-## Task to do for configure this template
-
-| Required                                           | Recommended                                            | Optional                         |
-|:--------------------------------------------------:|:------------------------------------------------------:|:--------------------------------:|
-| Configure the [Cargo.toml](Cargo.toml) file        | Change [.github/FUNDING.yml](.github/FUNDING.yml) file | Change the [LICENCE](LICENCE)    |
-| Change the [README.md](README.md) file             |                                                        |                                  |
-| Change the [ci.yml](.github/workflows/ci.yml) file |                                                        |                                  |
-| :tada: Have fun !!! :tada:                         | :books: Learn :books:                                  | :star: Like this template :star: |
-
-## Description of directories
-
-| Directory             | Description                                    | Used by ...               |
-|-----------------------|------------------------------------------------|---------------------------|
-| [src/](src)           | The main directory containing the project code | `Cargo`                   |
-| [tests/](tests)       | The integration test directory                 | `Cargo`                   |
-| [benches/](benches)   | The benches directory                          | `Cargo` (nightly channel) |
-| [examples/](examples) | The example directory                          | `Cargo`                   |
-| [.github/](.github)   | The special github directory                   | `Github`                  |
-
-> delete everything before this
-
 <h1 align="center">
-    ✨ Project's Title ✨
+    ✨ Rust TCP ✨
 </h1>
 
 <div align="center">
     
 <!-- see https://shields.io/ -->
 
-![Issues tag](https://img.shields.io/github/issues/ValentinColin/rust-template-project)
-![Forks tag](https://img.shields.io/github/forks/ValentinColin/rust-template-project)
-![Stars](https://img.shields.io/github/stars/ValentinColin/rust-template-project?style=social)
-![Licence](https://img.shields.io/github/license/ValentinColin/rust-template-project)
+![Issues tag](https://img.shields.io/github/issues/ValentinColin/rust-tcp)
+![Forks tag](https://img.shields.io/github/forks/ValentinColin/rust-tcp)
+![Stars](https://img.shields.io/github/stars/ValentinColin/rust-tcp?style=social)
+![Licence](https://img.shields.io/github/license/ValentinColin/rust-tcp)
 
 </div>
 
@@ -64,8 +42,8 @@ This project is awesome writing in [rust](https://www.rust-lang.org/fr/)
 
 ```bash
 # https or ssh
-git clone https://github.com/ValentinColin/rust-template-project.git
-git clone git@github.com:ValentinColin/rust-template-project.git
+git clone https://github.com/ValentinColin/rust-tcp.git
+git clone git@github.com:ValentinColin/rust-tcp.git
 
 cargo build --release
 ```
@@ -94,6 +72,6 @@ Thank you for considering and taking the time to contribute! Before contributing
 
 ## Credits
 
-<a href="https://github.com/ValentinColin/rust-template-project/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ValentinColin/rust-template-project" alt="contributors"/>
+<a href="https://github.com/ValentinColin/rust-tcp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ValentinColin/rust-tcp" alt="contributors"/>
 </a>

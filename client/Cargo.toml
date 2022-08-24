@@ -1,0 +1,12 @@
+[package]
+name = "rust-tcp-client"
+version = "0.1.0"
+authors = ["Valentin Colin <valentin.colin78@gmail.com>"]
+edition = "2021"
+description = "Basic project for learn how to use std::net crate."
+readme = "README.md"
+repository = "https://github.com/ValentinColin/rust-tcp.git"
+license = "MIT"
+keywords = ["network"]
+
+[dependencies]
